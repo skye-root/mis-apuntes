@@ -1,0 +1,1 @@
+Las aplicacioes web necesitan transferir archivos o mover los parámetros del usuario fuera de la URL, utilizan solicitudes HTTP
